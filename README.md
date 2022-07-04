@@ -9,4 +9,14 @@ Le projet que nous avons choisi de traiter est la réalisation d'un espace clien
 
 URL du site : https://aelhya.github.io/presentation_projet_innovation_numerique_2022/ 
 
-/!\ Site en cours de construction /!\ 
+_______________
+
+
+Template Name: FlexStart
+
+Template URL: https://bootstrapmade.com/flexstart-bootstrap-startup-template/
+
+Author: BootstrapMade.com
+
+License: https://bootstrapmade.com/license/
+
